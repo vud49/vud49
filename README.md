@@ -1,5 +1,5 @@
-##Just a year-one CS student who dont know anything about coding
-#This will be where i start my journey on CS. Wish me luck!
+# Just a year-one CS student who dont know anything about coding
+## This will be where i start my journey on CS. Wish me luck!
 
 <!--
 **vud49/vud49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
